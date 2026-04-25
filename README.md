@@ -1,5 +1,5 @@
 # IBAN-Generator (Germany)
-This is a simple IBAN generator that I worked on in University.
+This is a simple IBAN-generator that I worked on in University.
 I made both an English and a German version, but both versions include the German country code (the country code can be changed to your liking).
 
 ## Requirements:
