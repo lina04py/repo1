@@ -6,7 +6,7 @@ I made both an English and a German version, but both versions include the Germa
 Python 3 and an editor. I personally use PyCharm.
 
 ## How to run:
-Change your directory to the location of your files and enter this into your terminal:
+Change your directory to the location of your files and run:
 python bankprojectDE.py
 OR
 python bankprojectEN.py
